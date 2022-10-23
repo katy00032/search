@@ -13,7 +13,7 @@ function App() {
   <main>
     <Dictionary/>
   </main>
-  <footer classNeme="text center">
+  <footer classNeme="App-footer">
     Coded by Kateryna Vanina
     </footer>
     </div>

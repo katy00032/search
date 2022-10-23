@@ -1,16 +1,18 @@
 .App-header{
   margin: 30px 0;
+  background-color: rgb(203, 203, 234);
 }
-
 
 
 .App-logo{
   max-width: 270px; 
   display: block;
   margin: 0 auto;
+  
 }
 
 .App-footer{
   text-align: center;
-  margin: 30px 0 ;
+ display: block;
+ color: darkorchid;
 }

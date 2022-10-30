@@ -11,7 +11,7 @@ function App() {
   alt="logo"/>
   </header>
   <main>
-    <Dictionary/>
+    <Dictionary defaultKeyword="word"/>
   </main>
   <footer classNeme="App-footer">
     Coded by Kateryna Vanina

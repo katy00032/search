@@ -13,6 +13,11 @@ a {
 }
 
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-logo{
   max-width: 270px; 
   display: block;
